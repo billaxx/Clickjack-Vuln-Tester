@@ -1,4 +1,4 @@
-# BreadcrumbsClickjack-Vuln-Tester
+# Clickjack-Vuln-Tester
 
 A simple tool designed to test websites for **Clickjacking vulnerabilities**. This tool allows users to verify if a website is vulnerable to clickjacking attacks by embedding the target URL in an iframe.
 
