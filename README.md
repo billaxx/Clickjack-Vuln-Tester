@@ -75,7 +75,8 @@ Once the script is executed, follow the prompts to test a URL for clickjacking v
 
 ## 🖼️ Screenshot
 
-![Screenshot from 2024-09-22 22-06-40](https://github.com/user-attachments/assets/0e653f07-6053-4ed4-b242-92d11989d46b)
+![image](https://github.com/user-attachments/assets/beb109d7-3aac-4a55-8eed-420375185754)
+
 
 
 
