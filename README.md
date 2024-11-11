@@ -84,5 +84,4 @@ Feel free to contribute by creating pull requests or submitting issues. All cont
 
 ## 🧑‍💻 Author
 ### THASLIM & AMEERA 
-#### A passionate cybersecurity enthusiast who enjoys developing simple, effective tools to identify vulnerabilities.
 
